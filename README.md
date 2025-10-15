@@ -1,7 +1,7 @@
-
+<div align="center">
 <!-- Borda Superior Animada -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=5000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda superior animada" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=3000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda superior animada" />
 </div>
 
 <br />
@@ -16,29 +16,21 @@
 <br />
 <br />
 
-<!-- Skills Section -->
 ### 🚀 Main Skills
 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45px" hspace="20">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45px" hspace="20">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px" hspace="20">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45px" hspace="20">
 
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45px">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45px">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45px">
-   
-   
 <br />
 <br />
 
 ![Claudio-Net0's Stats](https://github-readme-stats.vercel.app/api?username=Claudio-Net0&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![Claudio-Net0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Claudio-Net0&theme=gotham&hide_border=true)
 ![Claudio-Net0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Net0&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 <br />
 <br />
-
-<!-- Contact Info -->
-
 
 ### 📫 Let's Connect!
 
@@ -52,6 +44,6 @@
 
 <!-- Borda Inferior Animada -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=5000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda inferior animada" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=3000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda inferior animada" />
 </div>
-
+</div>
