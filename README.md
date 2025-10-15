@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Borda Superior Animada -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=3000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda superior animada" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=3500&color=20B2AA&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda superior animada" />
 </div>
 
 <br />
@@ -9,7 +9,7 @@
 <!-- Mensagem de Apresentação -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=5000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi,+I'm+Cláudio+Neto;Backend+Developer;From+Brazil!&center=true)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=3500&color=20B2AA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Cláudio+Neto;Backend+Developer;From+Brazil!&center=true)
   
 </div>
 
@@ -44,6 +44,6 @@
 
 <!-- Borda Inferior Animada -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=3000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda inferior animada" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=3000&color=20B2AA&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda inferior animada" />
 </div>
 </div>
