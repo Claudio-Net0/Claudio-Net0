@@ -2,7 +2,7 @@
 
 <!-- Borda Superior Animada -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda superior animada" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=5000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda superior animada" />
 </div>
 
 <br />
@@ -68,7 +68,7 @@
 
 <!-- Borda Inferior Animada -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda inferior animada" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=5000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda inferior animada" />
 </div>
 
 </div>
