@@ -1,4 +1,3 @@
-<div align="center">
 
 <!-- Borda Superior Animada -->
 <div align="center">
@@ -20,41 +19,26 @@
 <!-- Skills Section -->
 ### 🚀 Main Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="50">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" height="35" alt="PHP" />
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="35" height="35" alt="MySQL" />
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git" />
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub" />
-      </a>
-    </td>
-  </tr>
-</table>
 
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45px">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45px">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45px">
+   
+   
 <br />
 <br />
 
 ![Claudio-Net0's Stats](https://github-readme-stats.vercel.app/api?username=Claudio-Net0&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![Claudio-Net0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Claudio-Net0&theme=gotham&hide_border=true)
+![Claudio-Net0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Net0&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 <br />
 <br />
 
 <!-- Contact Info -->
-<div align="center">
+
 
 ### 📫 Let's Connect!
 
@@ -62,7 +46,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cláudio-neto-72b51b158)
 
 
-</div>
+
 
 <br />
 
@@ -71,4 +55,3 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=5000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda inferior animada" />
 </div>
 
-</div>
