@@ -9,7 +9,7 @@
 <!-- Mensagem de Apresentação -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=360&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hello%2C+my+name+is+Cl%C3%A1udio+Neto+;I'm+a+Back-End+Developer+From+Brazil;Welcome+to+my+Backyard)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hello%2C+my+name+is+Cl%C3%A1udio+Neto+;I'm+a+Back-End+Developer+From+Brazil;Welcome+to+my+Backyard)](https://git.io/typing-svg)
   
 </div>
 
