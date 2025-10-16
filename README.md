@@ -9,7 +9,7 @@
 <!-- Mensagem de Apresentação -->
 <div align="center">
   
-  [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=800&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Hello%2C+my+name+is+Cl%C3%A1udio+Neto+%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%2C%22fontWeight%22%3A%22350%22%7D%2C%7B%22text%22%3A%22And+Emojis%21+%F0%9F%98%80%F0%9F%9A%80%22%7D%2C%7B%22text%22%3A%22I%27m+a+Back+-+End+Developer+From+Brazil%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%2C%22fontWeight%22%3A%22350%22%7D%2C%7B%22text%22%3A%22Welcome+to+my+Backyard%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%2C%22fontWeight%22%3A%22350%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=350&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Cl%C3%A1udio+Neto+;I'm+a+Back-End+Developer+From+Brazil;Welcome+to+my+Backyard)](https://git.io/typing-svg)
   
 </div>
 
