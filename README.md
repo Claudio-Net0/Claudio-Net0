@@ -1,15 +1,15 @@
 <div align="center">
 <!-- Borda Superior Animada -->
-<div align="center">
+<!--<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=3500&color=008080&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda superior animada" />
-</div>
+</div>-->
 
 <br />
 
 <!-- Mensagem de Apresentação -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=3500&color=008080&center=true&vCenter=true&width=600&lines=Hi,+I'm+Cláudio+Neto;Backend+Developer;From+Brazil!&center=true)
+  [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=800&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Hello%2C+my+name+is+Cl%C3%A1udio+Neto+%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%2C%22fontWeight%22%3A%22350%22%7D%2C%7B%22text%22%3A%22And+Emojis%21+%F0%9F%98%80%F0%9F%9A%80%22%7D%2C%7B%22text%22%3A%22I%27m+a+Back+-+End+Developer+From+Brazil%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%2C%22fontWeight%22%3A%22350%22%7D%2C%7B%22text%22%3A%22Welcome+to+my+Backyard%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%2C%22fontWeight%22%3A%22350%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
   
 </div>
 
@@ -43,7 +43,7 @@
 <br />
 
 <!-- Borda Inferior Animada -->
-<div align="center">
+<!--<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=3500&color=008080&center=true&vCenter=true&width=500&height=30&lines=▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄" alt="Borda inferior animada" />
-</div>
+</div> -->
 </div>
