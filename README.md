@@ -5,15 +5,11 @@
   
 <br />
 <br />
-<br />
-<br />
 
 <!-- Github Stats -->
 ![Claudio-Net0's Stats](https://github-readme-stats.vercel.app/api?username=Claudio-Net0&theme=graywhite&show_icons=true&hide_border=true&count_private=true&layout=compact)
 ![Claudio-Net0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Net0&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
-<br />
-<br />
 <br />
 <br />
 
