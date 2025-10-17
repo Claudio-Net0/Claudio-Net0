@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7F7F7&height=120&section=header"/>
+
 <!-- Mensagem de Apresentação -->
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hello%2C+my+name+is+Cl%C3%A1udio+Neto+;I'm+a+Back-End+Developer+From+Brazil;Welcome+to+my+Backyard)](https://git.io/typing-svg)
   
@@ -30,5 +32,7 @@
 <!-- Contact -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudioneto39@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cláudio-neto-72b51b158)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7F7F7&height=120&section=footer"/>
 
 </div>
